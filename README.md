@@ -1,5 +1,5 @@
 # Secure archive metadata
-- Created (UTC): 2025-09-18 10:48:37Z
+- Created (UTC): 2025-09-19 09:38:17Z
 - Source repo:   bechstein/care-module-sw
-- Commit SHA:    d85c763335f35f6026505fab1270144b18365c35
+- Commit SHA:    bd7cb5eea87054a95bea37f558e83a7c276fe69d
 - Ref:           refs/heads/master
